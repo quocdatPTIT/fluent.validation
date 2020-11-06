@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "I9C/+Z2A213wgVHOyaiUq/yaFJ5uQSr0zK0XQQYR+nLFG40C4H/zAvDsozfL6hM1EOi4dDHK49yhUz2UlVKpWQ==",
+  "dgSpecHash": "QEB1o2LXyFjrpcps4ONakt6xrbBunU3+HjyzaqyQxD3m642wv6CteoSUyHIZxa9pUlVoynIlnhTimQQV46eLbA==",
   "success": true,
   "projectFilePath": "/home/dat/RiderProjects/Fluent.Validation/Fluent.Validation/Fluent.Validation.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/dat/.nuget/packages/fluentvalidation/9.2.0/fluentvalidation.9.2.0.nupkg.sha512",
+    "/home/dat/.nuget/packages/fluentvalidation.aspnetcore/9.2.0/fluentvalidation.aspnetcore.9.2.0.nupkg.sha512",
+    "/home/dat/.nuget/packages/fluentvalidation.dependencyinjectionextensions/9.2.0/fluentvalidation.dependencyinjectionextensions.9.2.0.nupkg.sha512",
+    "/home/dat/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
